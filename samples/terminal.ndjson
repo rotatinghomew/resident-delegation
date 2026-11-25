@@ -1,0 +1,3 @@
+{"device":"handset-1","event":"e01","kind":"details_read","appointment":"point-0","rider":"d-1","earliest":"2026-11-25T17:29:00+08:00","latest":"2026-11-25T17:29:00+08:00"}
+{"device":"handset-1","event":"e02","kind":"handoff","appointment":"point-0","rider":"d-1","pass":"pass-0","proof":"slip-0","earliest":"2026-11-25T17:44:57+08:00","latest":"2026-11-25T17:45:05+08:00"}
+{"device":"handset-2","event":"e02","kind":"handoff","appointment":"point-9","rider":"d-2","pass":"pass-9","proof":"slip-9","earliest":"2026-11-25T17:43:00+08:00","latest":"2026-11-25T17:43:04+08:00"}

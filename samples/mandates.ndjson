@@ -1,0 +1,2 @@
+{"grant":"v1","resident":"r8","helper":"h2","order":null,"scopes":["create","arrange","view"],"from":"2026-11-25T10:00:00+08:00","until":"2026-11-26T10:00:00+08:00","revoked_at":"2026-11-25T17:45:00+08:00"}
+{"grant":"v2","resident":"r9","helper":"h2","order":"case9","scopes":["view"],"from":"2026-11-25T10:00:00+08:00","until":"2026-11-26T10:00:00+08:00"}
